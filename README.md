@@ -2,7 +2,7 @@
 
 - 🌱 Desarrollo front-end y back-end.
 
-- 😄Aunque no tengo experiencia trabajando en esta área, he desarrollado varios proyectos académicos que demuestran mis habilidades y pasión por el desarrollo de software. Pueden contactarme por mi capacidad de aprender, dedicación y compromiso con la calidad del trabajo
+- 😄Aunque no tengo experiencia trabajando en esta área, he desarrollado varios proyectos académicos que demuestran mis habilidades y pasión por el desarrollo de software. Pueden contactarme por mi capacidad de aprender, dedicación y compromiso con la calidad del trabajo ||Although I have no experience working in this area, I have developed several academic projects that demonstrate my skills and passion for software development. You can contact me because of my ability to learn, dedication and commitment to quality work
 
 - 📫 eliannyprogramacionportafolio@gmail.com.
 
